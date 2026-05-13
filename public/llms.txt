@@ -1,0 +1,102 @@
+# VoltEdge — Generative Engine Optimization Map
+
+> A large-scale general marketplace platform inspired by Amazon and AliExpress, designed to sell products across all categories except real estate and vehicles. The platform aims to be a comprehensive one-stop-shop for buyers and sellers, offering a wide variety of goods ranging from electronics and clothing to home goods and more. The vision is to create a competitive, scalable e-commerce ecosystem with broad product diversity.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Shop millions of products across every category at VoltEdge — your ultimate one-stop marketplace for electronics, fashion, home goods, and so much more. Start exploring today!
+
+### Services
+https://example.com/services
+Unlock powerful seller tools, seamless storefronts, and a massive buyer base at VoltEdge. Everything you need to launch, grow, and scale your e-commerce business starts right here.
+
+### About
+https://example.com/about
+VoltEdge was built with one bold vision: become the most competitive, diverse, and scalable online marketplace on the planet. Meet the team and mission behind Your Next Favorite Thing.
+
+### Contact
+https://example.com/contact
+Have a question, partnership idea, or need support? Reach out to the VoltEdge team today and discover why thousands of buyers and sellers trust us to deliver Your Next Favorite Thing.
+
+### Products
+https://example.com/products
+Our Products - VoltEdge
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - VoltEdge
+
+### Category
+https://example.com/category/:slug
+Products - VoltEdge
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VoltEdge
+A large-scale general marketplace platform inspired by Amazon and AliExpress, designed to sell products across all categories except real estate and vehicles. The platform aims to be a comprehensive one-stop-shop for buyers and sellers, offering a wide variety of goods ranging from electronics and clothing to home goods and more. The vision is to create a competitive, scalable e-commerce ecosystem with broad product diversity.
+
+## Target Audience
+- Urban Trendsetters
+- Eco-Conscious Families
+- Home Decor Enthusiasts
+- Tech Gadget Collectors
+- Budget-Friendly Shoppers
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
